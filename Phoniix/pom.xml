@@ -6,7 +6,7 @@
 
     <groupId>com.github.Phoniix</groupId>
     <artifactId>util</artifactId>
-    <version>V1.0</version>
+    <version>V1.01</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
